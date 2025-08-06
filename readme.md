@@ -13,7 +13,7 @@ A cool, animated landing page that simulates a terminal-style console with a cyb
 ✅ Fullscreen matrix-style animated background (like code rain)     
 ✅ Console/terminal-style message box with UI dots     
 ✅ Clean, responsive design     
-✅ Auto-redirect after 3 seconds     
+✅ Auto-redirect after a few seconds     
 ✅ 100% vanilla HTML, CSS, and JavaScript     
 
 ---
