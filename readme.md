@@ -10,18 +10,18 @@ A cool, animated landing page that simulates a terminal-style console with a cyb
 
 ## 🚀 Features
 
-✅ Fullscreen matrix-style animated background (like code rain)
-✅ Console/terminal-style message box with UI dots
-✅ Clean, responsive design
-✅ Auto-redirect after 3 seconds
-✅ 100% vanilla HTML, CSS, and JavaScript
+✅ Fullscreen matrix-style animated background (like code rain)     
+✅ Console/terminal-style message box with UI dots     
+✅ Clean, responsive design     
+✅ Auto-redirect after 3 seconds     
+✅ 100% vanilla HTML, CSS, and JavaScript     
 
 ---
 
 ## 📁 Project Structure
 
 ```
-forhad-landing/
+forhad-redirector/
 │
 ├── index.html       # Main landing page
 ├── style.css        # Styling for layout and animation
@@ -54,3 +54,7 @@ Want to make it your own?
 - Customize **matrix colors or speed** in `script.js` and `style.css`.
 
 ---
+
+## 📄 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
